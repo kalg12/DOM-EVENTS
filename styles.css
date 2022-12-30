@@ -67,6 +67,12 @@ section article {
   align-items: center;
 }
 
+.rectangulo {
+  width: 300px;
+  height: 200px;
+  background-color: blueviolet;
+}
+
 @media screen and (max-width: 700px) {
   nav {
     flex-direction: column;
